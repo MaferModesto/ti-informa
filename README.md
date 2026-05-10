@@ -1,4 +1,4 @@
-##Sistema de Gerenciamento e Venda de Cursos Online
+# Sistema de Gerenciamento e Venda de Cursos de TI Online
 
 ## Descrição do Projeto
 
